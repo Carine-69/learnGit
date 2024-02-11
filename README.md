@@ -1,1 +1,1 @@
-Weather Applicarion
+Weather Application
